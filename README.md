@@ -2,7 +2,8 @@
 
 <div class="alert alert-warning">
 
-**Note**: you do not have writing rights over this repo. One of the teammates should create a fork (a remote copy under your username, in the github world) for your group to work on.
+**Note**: you do not have writing rights over this repo. One of the teammates should create a fork (a remote copy under your username, in the github world) for your group to work on. 
+[Check this tutorial to learn about forks](https://www.earthdatascience.org/workshops/intro-version-control-git/about-forks/).
 
 </div>
 
